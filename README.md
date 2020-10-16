@@ -35,7 +35,7 @@
 
 ---
 
-[website]: https://harsh0620.github.io/Harsh.codes/
+[website]: https://harsh0620.github.io/Harsh.codes
 [twitter]: https://twitter.com/haxpl0rer
-[instagram]: https://www.instagram.com/harshchandravanshi/
-[linkedin]: https://www.linkedin.com/in/harsh-chandravanshi-74571b172/
+[instagram]: https://www.instagram.com/harshchandravanshi
+[linkedin]: https://www.linkedin.com/in/harsh-chandravanshi-74571b172
