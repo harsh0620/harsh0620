@@ -35,6 +35,13 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="harsh0620's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harsh0620&show_icons=true&theme=radical />
+
+</details>
+
 [website]: https://harsh0620.github.io/Harsh.codes
 [twitter]: https://twitter.com/haxpl0rer
 [instagram]: https://www.instagram.com/harshchandravanshi
