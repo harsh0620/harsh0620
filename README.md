@@ -3,9 +3,9 @@
 ## I'm a Programm | WebDevelop | Explor | ER...
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to develop my skills and get in touch with Tech.Community
-- 🥅 2020 Goals: Contribute more to Open Source projects and learn DSA
-- ⚡ Fun fact: I love to sing and watch webseries
+- 👯 I’m looking to develop my MERN Stack skills, improve my competitive programming and get in touch with Tech.Community
+- 🥅 2021 Goals: Contribute more to Open Source projects and learn DSA
+- ⚡ Fun fact: I love to sing and play chess
 
 ### Connect with me:
 
