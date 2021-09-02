@@ -1,42 +1,83 @@
-### Hi there, I'm Harsh Chandravanshi - aka [harsh0620][website] 👋
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-## I'm a Programm | WebDevelop | Explor | ER...
+<h1 align="center"> नमस्ते (Namaste), I'm Harsh Chandravanshi -aka <span><a href="https://harsh0620.github.io/Harsh.codes">harsh0620</a></span> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to develop my MERN Stack skills, improve my competitive programming and get in touch with Tech.Community
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn DSA
-- ⚡ Fun fact: I love to sing and play chess
+<h3 align="center">I'm a Tech Enthusiast from India ❤</h3>
+  
+<!-- A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:  -->
 
-### Connect with me:
+A 3rd year student pursuing Bachelor's in Computer Science 🎓 from College of Technology and Engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨.I'm currently into MERN Stack Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
 
-[<img align="left" alt="https://harsh0620.github.io/Harsh.codes/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="harsh0620 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="harsh0620 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="harsh0620 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![age](https://img.shields.io/badge/age-20-blue)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![living](https://img.shields.io/badge/living-Udaipur-3c9)
 
-<br />
+<img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### Languages and Tools:
+- 🌱 I’m currently improving my DSA and Web Dev Skills.
+- 👯 I’m looking forward to contribute in Open Source Projects and BlockChain Ethereum Projects
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Jack of all trades , Master of None !
+  <br />
+  <br />
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+<br/>
+<div align="center">
 
-<br />
-<br />
+<h2 align="center">Technology Stack </h2>  
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
 
----
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0620&layout=compact&theme=radical)](https://github.com/harsh0620/github-readme-stats)
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" width="60"
 
----
+</div>
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsh0620&show_icons=true&theme=radical)
+<br >
+
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+
+<img  src="https://github-readme-stats.vercel.app/api?username=harsh0620&show_icons=true&theme=radical" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0620&theme=radical" width="45%" >
+
+<br>
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0620&layout=compact&theme=radical" width="45%" >
+
+<br>
+
+<div align="center">
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+ <br/>
+
+<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/harsh-chandravanshi-74571b172)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/harshchandravanshi)
+[<img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/haxpl0rer)
+
+<!-- [<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">]()
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]() -->
+
+<!-- <a href="https://dev.to/rajatsethi28"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a> -->
+
+<!-- Footer Not working -->
+<!-- <img src="https://drive.google.com/file/d/1KuHSWDgFyVN3YA8Q3Hdvk9dPuQ4Uj22F/view?usp=sharing" alt=""> -->
+
+</div>
 
 [website]: https://harsh0620.github.io/Harsh.codes
 [twitter]: https://twitter.com/haxpl0rer
