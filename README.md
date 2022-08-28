@@ -6,9 +6,9 @@
   
 <!-- A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:  -->
 
-A 3rd year student pursuing Bachelor's in Computer Science 🎓 from College of Technology and Engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨.I'm currently into MERN Stack Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
+A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of Technology and Engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨.I'm currently into MERN Stack Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
 
-![age](https://img.shields.io/badge/age-20-blue)
+![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Udaipur-3c9)
 
@@ -79,7 +79,7 @@ A 3rd year student pursuing Bachelor's in Computer Science 🎓 from College of 
 
 </div>
 
-[website]: https://harsh0620.github.io/Harsh.codes
+[website]: http://harshchandravanshi.me/
 [twitter]: https://twitter.com/haxpl0rer
 [instagram]: https://www.instagram.com/harshchandravanshi
 [linkedin]: https://www.linkedin.com/in/harsh-chandravanshi-74571b172
