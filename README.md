@@ -43,6 +43,9 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of 
 
 <br >
 
+[![@harsh0620's Holopin board](https://holopin.me/harsh0620)](https://holopin.io/@harsh0620)
+
+<br>
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
