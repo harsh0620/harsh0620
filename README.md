@@ -16,19 +16,7 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of 
 - 👯 I’m looking forward to contribute in Open Source Projects.
 
 ### Technology Stack
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" width="30">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="30" width="30">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="30" width="30">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="30" width="30">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="30" width="30">
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" width="30">
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="30">
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" width="30">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" width="30">
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" width="30">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="30" width="30">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="30" width="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="30" width="30"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" width="30"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="30"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" width="30"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" width="30"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="30" width="30">
 
 </br >
 
