@@ -42,6 +42,8 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of 
 
 ### My Github Stats
 
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh0620&theme=dracula&row=2&column=3" alt="Harsh Chandravanshi" /></a></p>
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=harsh0620&show_icons=true&theme=dark"  display=block width=100% height=auto  alt="types" /></td>
