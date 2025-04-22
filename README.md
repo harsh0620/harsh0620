@@ -67,7 +67,7 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of 
    </tr> 
    <tr>
       <td> 
-         <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh0620&theme=nord_dark](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh0620&&theme=nord_dark&utcOffset=+5:30)"  display=block width=100% height=auto  alt="1" >
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh0620&theme=nord_dark&utcOffset=+5:30"  display=block width=100% height=auto  alt="1" >
       </td>
   </td>
   </tr>
