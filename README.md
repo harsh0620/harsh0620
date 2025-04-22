@@ -7,7 +7,7 @@
 A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of Technology and Engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨.I'm currently into MERN Stack Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
 
 
-![age](https://img.shields.io/badge/age-21-blue)   ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)   ![living](https://img.shields.io/badge/living-Udaipur-3c9)
+![age](https://img.shields.io/badge/age-24-blue)   ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)   ![living](https://img.shields.io/badge/living-Bengaluru-3c9)
 
 <img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -43,7 +43,7 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from College of 
 
 ### My Github Stats
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh0620&theme=dracula&row=2&column=3" alt="Harsh Chandravanshi" /></a></p>
+![](https://github-profile-trophy.vercel.app/?username=harsh0620&theme=dark)
 
 <table>
   <tr>
